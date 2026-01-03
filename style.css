@@ -1,0 +1,13 @@
+body {
+background-color: rgba(20, 255, 255, 0.33);
+  align-content: center;
+  display: grid;
+}
+
+h1 {
+color: rgb(200, 0, 0);
+}
+
+h2 {
+color: rgb(20, 20, 20);
+}
